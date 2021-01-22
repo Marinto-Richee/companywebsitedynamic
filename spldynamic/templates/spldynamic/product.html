@@ -1,0 +1,17 @@
+{% extends "spldynamic/base.html" %}
+
+{% block content %}
+<div>
+    <h1>Our Premium Products</h1>
+    <div class="product">
+        {% for pro in products %}
+
+        <img class="imgstyle2" src="/photos/{{pro.image}}" alt="product">
+        <h2 class="designation">Price: {{pro.price}}<br><br><br></h2>
+        <h3>{{ pro.name}}</h3>
+
+        {% endfor %}
+    </div>
+</div>
+
+{% endblock %}

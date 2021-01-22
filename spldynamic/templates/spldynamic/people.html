@@ -1,0 +1,14 @@
+{% extends "spldynamic/base.html" %}
+
+{% block content %}
+{% for ppl in ppls %}
+<div>
+    
+    <img class="imgstyle2" src="/photos/{{ppl.image}}" alt="people"  >
+    <h2 class="designation">{{ppl.designation}}</h2>
+    <h3>{{ ppl.name}}</h3>
+</div>
+{% endfor %}
+
+
+{% endblock %}

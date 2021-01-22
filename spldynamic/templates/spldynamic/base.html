@@ -1,0 +1,31 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Silicon Private Limited</title>
+    <link rel="stylesheet" href="{% static 'css/styling.css' %}">
+    <link rel="icon" href="{% static 'images/download.png' %}" type="image/x-icon">
+</head>
+
+<body>
+
+    <div class="parallax">
+        <h1 id="title">Silicon Private Limited</h1>
+    </div>
+    <div class="sticky">
+        <nav><a href="http://marinto.student.saveetha.in:8000/home/" style="color: #FAB162"> Home</a>
+            <a href="http://marinto.student.saveetha.in:8000/product/" style="color: #FAB162">Products</a>
+            <a href="http://marinto.student.saveetha.in:8000/people/" style="color: #FAB162">People</a>
+            <a class='space' href="http://marinto.student.saveetha.in:8000/contact/" style="color: #FAB162">Contact
+                Us</a>
+        </nav>
+    </div>
+    <div>
+        {% block content %}
+        {% endblock  %}
+        <footer>Copyright &COPY; 2020 Silicon Private Limited, Developed by Marinto Richee J.</footer>
+    </div>
+</body>
+
+</html>
