@@ -144,9 +144,9 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ![output](./static/images/Silicon Private Limited_1.jpg)
-![output](./static/images/Silicon Private Limited product.jpg)
-![output](./static/images/Silicon Private Limited people.jpg)
-![output](./static/images/Silicon Private Limited contact us.jpg)
+![output](./static/images/Silicon Private Limited product_1.jpg)
+![output](./static/images/Silicon Private Limited people_1.jpg)
+![output](./static/images/Silicon Private Limited contact us_1.jpg)
 
 
 ## CODE VALIDATION REPORT:
