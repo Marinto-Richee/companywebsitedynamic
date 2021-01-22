@@ -143,10 +143,10 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![output](./static/images/Silicon Private Limited_1.jpg)
-![output](./static/images/Silicon Private Limited product_1.jpg)
-![output](./static/images/Silicon Private Limited people_1.jpg)
-![output](./static/images/Silicon Private Limited contact us_1.jpg)
+![output](./static/images/homeout.jpg)
+![output](./static/images/productout.jpg)
+![output](./static/images/peopleout.jpg)
+![output](./static/images/contactout.jpg)
 
 
 ## CODE VALIDATION REPORT:
