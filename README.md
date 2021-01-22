@@ -155,6 +155,12 @@ Publish the website in the given URL.
 ![output](./static/images/people.jpg)
 ![output](./static/images/contact.jpg)
 
+## ADMIN PAGE:
+![output](./static/images/adminpeople.jpg)
+![output](./static/images/adminpro.jpg)
+## MODELS.PY:
+![output](./static/images/model.jpg)
+
 ## GIT: 
 https://github.com/Marinto-Richee/companywebsitedynamic.git
 
